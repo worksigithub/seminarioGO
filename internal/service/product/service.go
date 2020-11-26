@@ -1,5 +1,8 @@
 package product
 
+
+// terminal: go run cmd/product/product.go -config ./config/config.yaml
+
 import (
 	"github.com/jmoiron/sqlx"
 	"github.com/seminarioGo/internal/config"	
